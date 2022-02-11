@@ -5,11 +5,11 @@
 </template>
 
 <script>
-  // AIzaSyBvfqBFS3_OXgyJjTPArg5Yh6REJfgtDVc
-import LoginPage from './components/login/LoginPage.vue';
+// AIzaSyBvfqBFS3_OXgyJjTPArg5Yh6REJfgtDVc
+import LoginPage from "./components/login/LoginPage.vue";
 export default {
   name: "App",
-  components: {LoginPage},
+  components: { LoginPage },
 
   data: () => ({
     //
